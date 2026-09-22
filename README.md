@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jessicahiggs&label=Who%20dropped%20by%20(Hello!)&color=blueviolet" alt="Who dropped by (Hello!)">
+  <img src="https://komarev.com/ghpvc/?username=jessicahiggs&label=Who%20dropped%20by%20(Hello!)&color=brightgreen" alt="Who dropped by (Hello!)">
 </p>
